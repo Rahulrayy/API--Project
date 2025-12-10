@@ -28,6 +28,7 @@ python encoder.py
 ```
 
 Press Enter twice to use defaults, then type your message. The encoder will create `stego.wav` with your hidden message inside.
+Or use the given audio file ride.wav
 
 ### Extract a Message
 
